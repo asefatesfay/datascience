@@ -22,6 +22,6 @@ Numeric and Categorical
  ## Feature
  - A column in the dataframe sometimes called variable, predictor 
  ## Outcome
- - It predicts the outcome of an analysis
+ - It predicts the outcome of an analysis sometimes it's called dependent variable
  ## Record
  - A in row in the dataframe
